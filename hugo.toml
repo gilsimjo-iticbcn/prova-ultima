@@ -1,0 +1,4 @@
+baseURL = '/'
+locale = 'es'
+title = 'My New Hugo Project'
+theme = 'ananke'
